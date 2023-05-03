@@ -29,6 +29,7 @@
     +   [财富资料库（五）NPM、PYPI、DockerHub 备份](docs/wealth/wealth5-dockerhub.md)
     +   [财富资料库（六）NPM、PYPI、DockerHub 备份](docs/wealth/wealth6-dockerhub.md)
     +   [财富资料库（七）NPM、PYPI、DockerHub 备份](docs/wealth/wealth7-dockerhub.md)
+    +   [财富资料库（八）NPM、PYPI、DockerHub 备份](docs/wealth/wealth8-dockerhub.md)
     +   [生财有术知识星球整理（一）NPM、PYPI、DockerHub 备份](docs/wealth/scys1-dockerhub.md)
     +   [奸的好人 1~25 NPM、PYPI、DockerHub 备份](docs/wealth/jiandehaoren-dockerhub.md)
     +   [上海交大安泰经管课件 NPM、PYPI、DockerHub 备份](docs/wealth/sjtu-econmgt-dockerhub.md)
